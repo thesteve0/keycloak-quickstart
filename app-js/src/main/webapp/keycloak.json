@@ -1,0 +1,5 @@
+{
+    "realm": "quickstart",
+    "resource": "app",
+    "auth-server-url": "${keycloakUrl}"
+}

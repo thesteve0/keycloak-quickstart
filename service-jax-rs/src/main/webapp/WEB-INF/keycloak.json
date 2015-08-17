@@ -1,0 +1,7 @@
+{
+    "realm": "quickstart",
+    "resource": "service",
+    "auth-server-url": "${keycloakUrl}",
+    "bearer-only": true,
+    "ssl-required": "external"
+}
